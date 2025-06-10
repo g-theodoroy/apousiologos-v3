@@ -25,9 +25,6 @@ cd apousiologos-v3
 composer install --no-dev
 chmod -R 0777 storage/
 
-npm install
-npm run build
-
 ```
 
 
