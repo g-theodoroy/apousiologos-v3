@@ -24,7 +24,6 @@ git clone https://github.com/g-theodoroy/apousiologos-v3.git
 cd apousiologos-v3
 composer install --no-dev
 chmod -R 0777 storage/
-
 ```
 
 
